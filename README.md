@@ -2,8 +2,6 @@
 
 **Project Structure**
 
-## 📁 Project Structure
-
 ```text
 blog-platform/
 ├── database/
