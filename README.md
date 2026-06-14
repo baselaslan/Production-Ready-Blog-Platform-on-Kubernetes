@@ -3,7 +3,9 @@
 **Project Structure**
 
 blog-platform/
+
 ├── database/
+
 │   ├── postgres-deployment.yaml
 │   ├── pvc.yaml
 │   └── service.yaml
