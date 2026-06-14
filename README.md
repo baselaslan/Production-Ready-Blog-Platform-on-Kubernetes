@@ -1,4 +1,4 @@
-# Dockerizing-a-Blog-API-Project
+# Dockerizing a Blog API Project
 
 Web user interface deployment
 REST API deployment
